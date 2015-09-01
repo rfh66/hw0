@@ -10,14 +10,15 @@ Basic information:
 Indicate level of comfort with the following on a five-point scale
 (1 = I've never heard of it, 3 = I can get by, 5 = I know a lot).
 
-- Git:
-- Unix shell:
-- C programming:
-- Python programming:
-- Computer architecture:
-- Locking and concurrency:
-- Numerical methods:
+- Git:2
+- Unix shell:4
+- C programming:5
+- Python programming:4
+- Computer architecture:4
+- Locking and concurrency:2
+- Numerical methods:4
 
 Is there anything else you feel I should know about your background?
 
 Why are you taking the class?
+I do a lot of computationally intensive software projects, both as part of my research work, and for my own projects, wherefore I thought it might be useful when my advisor recommended it.
